@@ -1,7 +1,3 @@
-## Descriptions
-
-This general Neovim configuration. Some piece of this configs pure adapted from [kickstart-modular](https://github.com/dam9000/kickstart-modular.nvim) for make it run flawlessly
-
 ## Usage
 
 Before use this config, you must clean your previous config & other stuff like installed plugins, state, etc with this commands
