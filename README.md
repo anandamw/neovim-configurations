@@ -13,5 +13,5 @@ rm -rf ~/.local/share/nvim ~/.local/state/nvim ~/.cache/nvim
 You just clone this repository using this command
 
 ```bash
-git clone https://github.com/Anifyuli/nvim.git ~/.config/nvim
+git clone https://github.com/anandamw/neovim-configurations.git ~/.config/nvim
 ```
