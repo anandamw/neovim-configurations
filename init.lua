@@ -11,3 +11,10 @@ require("keymapping")
 require("autopairs-config")
 require("whichkey-config")
 require("devicon-config")
+require("nvim-notify-config")
+require("null-ls")
+require("lsp-config")
+require("prettier-config")
+
+
+
